@@ -1,0 +1,2 @@
+# getTwiPics_java
+javaバージョン
